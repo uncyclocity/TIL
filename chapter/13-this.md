@@ -1,5 +1,7 @@
 # 13. this
 
+> References <br> <a href="http://www.yes24.com/Product/Goods/92742567?OzSrank=1">모던 자바스크립트 Deep Dive</a> _.이웅모_
+
 ## 1. this 키워드
 
 - **this**란? **자신이 속한 객체** 혹은 **자신이 생성할 인스턴스**를 가리키는 **자기 참조 변수**이다.
