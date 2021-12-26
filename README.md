@@ -1,6 +1,7 @@
 # 📜 TIL
 
 학습한 내용을 이곳에 정리합니다.
+각 정리 내용의 일부는 velog에 정리됩니다.
 
 ## JavaScript
 
@@ -22,7 +23,11 @@
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/16 - 웹 스토리지와 쿠키.md">16. 웹 스토리지와 쿠키</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/17 - 프로미스.md">17. 프로미스</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/18 - for...in과 for...of의 차이.md">18. for...in과 for...of의 차이</a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/19 - 브라우저 렌더링 과정.md">19. 브라우저 렌더링 과정</a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/20 - 실행 컨텍스트.md">20. 실행 컨텍스트</a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/21 - 클로저.md">21. 클로저</a>
 
 ## Network
 
 - <a href="https://github.com/uncyclocity/TIL/blob/main/Network/01 - REST API.md">01. REST API</a>
+- <a href="https://github.com/uncyclocity/TIL/blob/main/Network/02 - GET POST 차이점.md">02. GET POST 차이점</a>
