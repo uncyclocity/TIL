@@ -26,6 +26,7 @@
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/19 - 브라우저 렌더링 과정.md">19. 브라우저 렌더링 과정</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/20 - 실행 컨텍스트.md">20. 실행 컨텍스트</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/21 - 클로저.md">21. 클로저</a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/22 - 함수형과 객체 지향형 프로그래밍.md">22. 함수형과 객체 지향형 프로그래밍</a>
 
 ## Network
 
