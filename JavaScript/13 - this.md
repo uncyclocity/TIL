@@ -120,6 +120,7 @@ console.log(circle2.getDiameter()); // 20
 ```
 
 - **생성자 함수가 미래에 생성 할 인스턴스**가 바인딩된다.
+- 만약 **new 연산자 없이** 호출 할 경우, this는 **전역 객체**가 된다.
 
 ## 3. Function.property.apply/call/bind 메서드에 의한 간접 호출
 
