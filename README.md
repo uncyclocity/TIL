@@ -36,3 +36,5 @@
 ## React
 
 - <a href="https://github.com/uncyclocity/TIL/blob/main/React/01 - 생명 주기.md">01. 생명 주기</a>
+- <a href="https://github.com/uncyclocity/TIL/blob/main/React/02 - hooks를 이용한 성능 최적화.md">02. hooks를 이용한 성능 최적화</a>
+- <a href="https://github.com/uncyclocity/TIL/blob/main/React/03 - CSR과 SSR의 SEO 차이.md">03. CSR과 SSR의 SEO 차이</a>
