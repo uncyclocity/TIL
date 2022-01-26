@@ -27,6 +27,7 @@
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/20 - 실행 컨텍스트.md">20. 실행 컨텍스트</a> <a href="https://velog.io/@uncyclocity/JavaScript-실행-컨텍스트"><img src="https://img.shields.io/badge/Velog에서 보기-4FC08D?style=flat-square&logo=vimeo&logoColor=white"/></a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/21 - 클로저.md">21. 클로저</a> <a href="https:://velog.io/@uncyclocity/JavaScript-클로저"><img src="https://img.shields.io/badge/Velog에서 보기-4FC08D?style=flat-square&logo=vimeo&logoColor=white"/></a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/22 - 함수형과 객체 지향형 프로그래밍.md">22. 함수형과 객체 지향형 프로그래밍</a> <a href="https://velog.io/@uncyclocity/JavaScript-객체-지향형과-함수형-프로그래밍"><img src="https://img.shields.io/badge/Velog에서 보기-4FC08D?style=flat-square&logo=vimeo&logoColor=white"/></a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/23 - 프로토타입.md">23. 프로토타입</a>
 
 ## Network
 
