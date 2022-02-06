@@ -14,7 +14,7 @@
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/07 - 원시값과 객체값.md">07. 원시값과 객체값</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/08 - 함수.md">08. 함수</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/09 - 스코프.md">09. 스코프</a>
-- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/10 - 변수의 생명 주기 및 전역변수의 문제점.md">10. 변수의 생명 주기 및 전역변수의 문제점</a>
+- <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/10 - 변수의 생명 주기 및 전역 변수의 문제점.md">10. 변수의 생명 주기 및 전역변수의 문제점</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/11 - 소스코드의 실행 과정과 호이스팅.md">11. 소스코드의 실행 과정과 호이스팅</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/12 - 프로퍼티 어트리뷰트.md">12. 프로퍼티 어트리뷰트</a>
 - <a href="https://github.com/uncyclocity/TIL_JavaScript/blob/main/JavaScript/13 - this.md">13. this</a>
